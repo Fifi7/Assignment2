@@ -296,7 +296,12 @@
   }
   .icon-container{
     background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 6px;
+    width: 61px;
+    height: 61px;
     border-radius: 50%;
 
   }
