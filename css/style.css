@@ -197,10 +197,12 @@
 }
 .text{
   font-size: 16px;
-  text-align: center;
+  text-align: justify;
   width: 580px;
+  margin-top: 84px;
   
 }
+
   .centered-section {
     display: flex;
     justify-content: center;
